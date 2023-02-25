@@ -35,6 +35,7 @@ The data has been taken from Wikipedia, which can be edited by anyone. I cannot 
 
 ## Source of Data
 - [Wikipedia - List of deadly earthquakes since 1900](https://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900)
+- [Link to data.world dataset](https://data.world/utsav-nimavat/data-visualization-project-i310d)
 
 ## License
 - [MIT](https://github.com/utsav-nimavat/Data-Curation-Project-I310D/blob/ec1f19bc1a7b80f10abf77dc52ca6c885f918d33/LICENSE)
